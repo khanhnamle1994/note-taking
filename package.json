@@ -1,0 +1,18 @@
+{
+  "name": "note-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.0.1",
+    "cosmicjs": "^2.39.91",
+    "inquirer": "^3.2.1",
+    "meteor-random": "0.0.3"
+  }
+}
